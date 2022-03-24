@@ -1,9 +1,7 @@
 //
 //  PhotoSwitcherApp.swift
 //  Shared
-//
-//  Created by user217937 on 3/12/22.
-//
+//  Created by User Joe Hunter 
 
 import SwiftUI
 
